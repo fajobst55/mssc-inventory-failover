@@ -9,9 +9,6 @@ import static org.springframework.web.reactive.function.server.RequestPredicates
 import static org.springframework.web.reactive.function.server.RequestPredicates.accept;
 import static org.springframework.web.reactive.function.server.RouterFunctions.route;
 
-/**
- * Created by jt on 3/14/20.
- */
 @Configuration
 public class RouterConfig {
 
